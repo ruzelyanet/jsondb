@@ -1,14 +1,12 @@
 {
-    "users": [0: {
+    "users": [{
         "id": 1,
         "name": "Teri L. Thorpe",
         "birthday": "1988-10-12",
         "age": 44,        
         "address": "4041 Lakewood Drive Parsippany, NJ 07054",
         "phone": "149-48-4334"
-    }, 
-    
-    1: {
+    }, {
         "id": 2,
         "name": "Teri L. Thorpe",
         "birthday": "1988-10-12",
